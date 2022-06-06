@@ -11,6 +11,10 @@ body {
     font-size: 16px;
 }
 
+.white{
+    font-size: 13px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -741,7 +745,6 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
-    font-size: 13px;
 }
 
 .portfolio-thumb {
