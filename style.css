@@ -15,6 +15,11 @@ body {
     font-size: 13px;
 }
 
+.btnc{
+    color: #000000;
+    background-color: #f59573;
+}
+
 
 a,
 button {
@@ -97,6 +102,7 @@ a:hover {
     bottom: 0;
     left: 0;
     right: 0;
+    background: rgba(0,0,0,0.5);
 }
 
 .texture-paper::before {
@@ -660,7 +666,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
 }
 
 .container {
@@ -701,7 +706,6 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -784,7 +788,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
+    position: relative;
 }
 
 .btn-atomic-tangerine {
