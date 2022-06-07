@@ -13,6 +13,7 @@ body {
 
 .white{
     font-size: 13px;
+    color: black;
 }
 
 .btnc{
@@ -749,7 +750,8 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    /*color: #FFFFFF!important;*/
+    color: black;
 }
 
 .portfolio-thumb {
@@ -789,6 +791,7 @@ h4 {
 
 .tc-white {
     color: #FFFFFF!important;
+    color: black;
     position: relative;
 }
 
